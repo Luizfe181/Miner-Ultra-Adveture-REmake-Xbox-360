@@ -1,0 +1,4451 @@
+fileFormatVersion: 2
+guid: 92096951fe29f69478f9e6dcb6ecbd25
+timeCreated: 1784423533
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '  '
+    100002: anel.L
+    100004: anel.L.001
+    100006: anel.L.002
+    100008: anel.R
+    100010: anel.R.001
+    100012: anel.R.002
+    100014: antebraco.L
+    100016: antebraco.L.001
+    100018: antebraco.R
+    100020: antebraco.R.001
+    100022: apontar.L
+    100024: apontar.L.001
+    100026: apontar.L.002
+    100028: apontar.R
+    100030: apontar.R.001
+    100032: apontar.R.002
+    100034: BANDANA
+    100036: BANDANA.001
+    100038: braco.L
+    100040: braco.L.001
+    100042: braco.R
+    100044: braco.R.001
+    100046: "cabe\xE7a"
+    100048: "cabe\xE7a.002"
+    100050: chapeu
+    100052: coxa.L
+    100054: coxa.R
+    100056: Cube
+    100058: EYE.L
+    100060: EYE.R
+    100062: head
+    100064: hips
+    100066: IK.L
+    100068: IK.pe.L.001
+    100070: IK.pe.R.001
+    100072: IK.perna.L.001
+    100074: IK.perna.R.001
+    100076: IK.R
+    100078: joelho.L
+    100080: joelho.R
+    100082: MAO FECHADO.L
+    100084: MAO FECHADO.R
+    100086: mao.L
+    100088: mao.L.001
+    100090: mao.R
+    100092: mao.R.001
+    100094: MASTER.EYE
+    100096: MASTER.EYE.L
+    100098: MASTER.EYE.R
+    100100: meio.L
+    100102: meio.L.001
+    100104: meio.L.002
+    100106: meio.R
+    100108: meio.R.001
+    100110: meio.R.002
+    100112: midinho.L
+    100114: midinho.L.001
+    100116: midinho.L.002
+    100118: midinho.R
+    100120: midinho.R.001
+    100122: midinho.R.002
+    100124: //RootNode
+    100126: nec
+    100128: ombro.L
+    100130: ombro.R
+    100132: PE.coxa.L.001
+    100134: PE.coxa.R.001
+    100136: PE.IK.L
+    100138: PE.IK.R
+    100140: PE.joelho.L.001
+    100142: PE.joelho.R.001
+    100144: pe.L
+    100146: pe.R
+    100148: perna.L
+    100150: perna.R
+    100152: Plane
+    100154: polegar.L
+    100156: polegar.L.001
+    100158: polegar.R
+    100160: polegar.R.001
+    100162: POLO.L
+    100164: POLO.PE.L
+    100166: POLO.PE.R
+    100168: POLO.R
+    100170: Sphere.008
+    100172: spine
+    100174: spine.001
+    100176: spine.002
+    400000: '  '
+    400002: anel.L
+    400004: anel.L.001
+    400006: anel.L.002
+    400008: anel.R
+    400010: anel.R.001
+    400012: anel.R.002
+    400014: antebraco.L
+    400016: antebraco.L.001
+    400018: antebraco.R
+    400020: antebraco.R.001
+    400022: apontar.L
+    400024: apontar.L.001
+    400026: apontar.L.002
+    400028: apontar.R
+    400030: apontar.R.001
+    400032: apontar.R.002
+    400034: BANDANA
+    400036: BANDANA.001
+    400038: braco.L
+    400040: braco.L.001
+    400042: braco.R
+    400044: braco.R.001
+    400046: "cabe\xE7a"
+    400048: "cabe\xE7a.002"
+    400050: chapeu
+    400052: coxa.L
+    400054: coxa.R
+    400056: Cube
+    400058: EYE.L
+    400060: EYE.R
+    400062: head
+    400064: hips
+    400066: IK.L
+    400068: IK.pe.L.001
+    400070: IK.pe.R.001
+    400072: IK.perna.L.001
+    400074: IK.perna.R.001
+    400076: IK.R
+    400078: joelho.L
+    400080: joelho.R
+    400082: MAO FECHADO.L
+    400084: MAO FECHADO.R
+    400086: mao.L
+    400088: mao.L.001
+    400090: mao.R
+    400092: mao.R.001
+    400094: MASTER.EYE
+    400096: MASTER.EYE.L
+    400098: MASTER.EYE.R
+    400100: meio.L
+    400102: meio.L.001
+    400104: meio.L.002
+    400106: meio.R
+    400108: meio.R.001
+    400110: meio.R.002
+    400112: midinho.L
+    400114: midinho.L.001
+    400116: midinho.L.002
+    400118: midinho.R
+    400120: midinho.R.001
+    400122: midinho.R.002
+    400124: //RootNode
+    400126: nec
+    400128: ombro.L
+    400130: ombro.R
+    400132: PE.coxa.L.001
+    400134: PE.coxa.R.001
+    400136: PE.IK.L
+    400138: PE.IK.R
+    400140: PE.joelho.L.001
+    400142: PE.joelho.R.001
+    400144: pe.L
+    400146: pe.R
+    400148: perna.L
+    400150: perna.R
+    400152: Plane
+    400154: polegar.L
+    400156: polegar.L.001
+    400158: polegar.R
+    400160: polegar.R.001
+    400162: POLO.L
+    400164: POLO.PE.L
+    400166: POLO.PE.R
+    400168: POLO.R
+    400170: Sphere.008
+    400172: spine
+    400174: spine.001
+    400176: spine.002
+    4300000: BANDANA
+    4300002: BANDANA.001
+    4300004: Cube
+    4300006: Plane
+    4300008: Sphere.008
+    4300010: "cabe\xE7a"
+    4300012: "cabe\xE7a.002"
+    7400000: ArmatureAction
+    7400002: "  |B\xE9zierCircleAction"
+    7400004: '  |gameover'
+    7400006: '  |IDLE'
+    7400008: '  |jogar'
+    7400010: '  |JUMP'
+    7400012: '  |MAO FECHADO'
+    7400014: '  |PlaneAction'
+    7400016: '  |RUN'
+    7400018: '  |WALK'
+    7400020: "Cube|B\xE9zierCircleAction"
+    7400022: Cube|gameover
+    7400024: Cube|PlaneAction
+    7400026: "Plane|B\xE9zierCircleAction"
+    7400028: Plane|gameover
+    7400030: Plane|PlaneAction
+    7400032: "cabe\xE7a|B\xE9zierCircleAction"
+    7400034: "cabe\xE7a|gameover"
+    7400036: "cabe\xE7a|PlaneAction"
+    7400038: "cabe\xE7a|WALK"
+    9500000: //RootNode
+    13700000: BANDANA
+    13700002: BANDANA.001
+    13700004: "cabe\xE7a"
+    13700006: "cabe\xE7a.002"
+    13700008: Cube
+    13700010: Plane
+    13700012: Sphere.008
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: 0
+      lastFrame: 97
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "  |B\xE9zierCircleAction"
+      takeName: "  |B\xE9zierCircleAction"
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: '  |gameover'
+      takeName: '  |gameover'
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: '  |IDLE'
+      takeName: '  |IDLE'
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: '  |jogar'
+      takeName: '  |jogar'
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.9132653
+        functionName: DispararChapeuObjeto
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: '  |JUMP'
+      takeName: '  |JUMP'
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: '  |MAO FECHADO'
+      takeName: '  |MAO FECHADO'
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: '  |PlaneAction'
+      takeName: '  |PlaneAction'
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: '  |RUN'
+      takeName: '  |RUN'
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: '  |WALK'
+      takeName: '  |WALK'
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Cube|B\xE9zierCircleAction"
+      takeName: "Cube|B\xE9zierCircleAction"
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cube|gameover
+      takeName: Cube|gameover
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cube|PlaneAction
+      takeName: Cube|PlaneAction
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Plane|B\xE9zierCircleAction"
+      takeName: "Plane|B\xE9zierCircleAction"
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Plane|gameover
+      takeName: Plane|gameover
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Plane|PlaneAction
+      takeName: Plane|PlaneAction
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "cabe\xE7a|B\xE9zierCircleAction"
+      takeName: "cabe\xE7a|B\xE9zierCircleAction"
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "cabe\xE7a|gameover"
+      takeName: "cabe\xE7a|gameover"
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "cabe\xE7a|PlaneAction"
+      takeName: "cabe\xE7a|PlaneAction"
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "cabe\xE7a|WALK"
+      takeName: "cabe\xE7a|WALK"
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: '  '
+        weight: 1
+      - path: '  /hips'
+        weight: 1
+      - path: '  /hips/coxa.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L'
+        weight: 1
+      - path: '  /hips/coxa.L/joelho.L/perna.L/pe.L'
+        weight: 1
+      - path: '  /hips/coxa.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R'
+        weight: 1
+      - path: '  /hips/coxa.R/joelho.R/perna.R/pe.R'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001'
+        weight: 1
+      - path: '  /hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001'
+        weight: 1
+      - path: '  /hips/spine'
+        weight: 1
+      - path: '  /hips/spine/spine.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/chapeu'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001'
+        weight: 1
+      - path: '  /hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R'
+        weight: 1
+      - path: '  /IK.L'
+        weight: 1
+      - path: '  /IK.R'
+        weight: 1
+      - path: '  /PE.IK.L'
+        weight: 1
+      - path: '  /PE.IK.R'
+        weight: 1
+      - path: '  /POLO.L'
+        weight: 1
+      - path: '  /POLO.PE.L'
+        weight: 1
+      - path: '  /POLO.PE.R'
+        weight: 1
+      - path: '  /POLO.R'
+        weight: 1
+      - path: BANDANA
+        weight: 1
+      - path: BANDANA.001
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

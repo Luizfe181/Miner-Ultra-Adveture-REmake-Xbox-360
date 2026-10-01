@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{937CA8B2-31FA-1D80-52B5-B9058B499949}") = "MINER REMAKE XBOX 360", "Assembly-CSharp.csproj", "{6FFCD5A4-D368-E338-5540-EFDC3538ADAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FFCD5A4-D368-E338-5540-EFDC3538ADAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFCD5A4-D368-E338-5540-EFDC3538ADAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFCD5A4-D368-E338-5540-EFDC3538ADAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFCD5A4-D368-E338-5540-EFDC3538ADAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

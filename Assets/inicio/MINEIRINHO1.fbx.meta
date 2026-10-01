@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: 16ef77a93f7501846abd0f7b6217946c
+timeCreated: 1783296543
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: anel.L
+    100002: anel.L.001
+    100004: anel.L.002
+    100006: anel.R
+    100008: anel.R.001
+    100010: anel.R.002
+    100012: antebraco.L
+    100014: antebraco.L.001
+    100016: antebraco.R
+    100018: antebraco.R.001
+    100020: apontar.L
+    100022: apontar.L.001
+    100024: apontar.L.002
+    100026: apontar.R
+    100028: apontar.R.001
+    100030: apontar.R.002
+    100032: Armature
+    100034: boca de baixo
+    100036: boca de cima
+    100038: braco.L
+    100040: braco.L.001
+    100042: braco.R
+    100044: braco.R.001
+    100046: cabelo
+    100048: cabelo.001
+    100050: cabelo.002
+    100052: cabelo.003
+    100054: "cabe\xE7a"
+    100056: "cabe\xE7a.001"
+    100058: "cabe\xE7a.002"
+    100060: coxa.L
+    100062: coxa.R
+    100064: Cube
+    100066: EYE.L
+    100068: EYE.R
+    100070: head
+    100072: hips
+    100074: IK.L
+    100076: IK.pe.L.001
+    100078: IK.pe.R.001
+    100080: IK.perna.L.001
+    100082: IK.perna.R.001
+    100084: IK.R
+    100086: iris.baixo.L
+    100088: iris.baixo.R
+    100090: iris.cima.L
+    100092: iris.cima.R
+    100094: jaw
+    100096: joelho.L
+    100098: joelho.R
+    100100: MAO FECHADO.L
+    100102: MAO FECHADO.R
+    100104: mao.L
+    100106: mao.L.001
+    100108: mao.R
+    100110: mao.R.001
+    100112: MASTER.EYE
+    100114: MASTER.EYE.L
+    100116: MASTER.EYE.R
+    100118: meio.L
+    100120: meio.L.001
+    100122: meio.L.002
+    100124: meio.R
+    100126: meio.R.001
+    100128: meio.R.002
+    100130: midinho.L
+    100132: midinho.L.001
+    100134: midinho.L.002
+    100136: midinho.R
+    100138: midinho.R.001
+    100140: midinho.R.002
+    100142: //RootNode
+    100144: nec
+    100146: ombro.L
+    100148: ombro.R
+    100150: PE.coxa.L.001
+    100152: PE.coxa.R.001
+    100154: PE.IK.L
+    100156: PE.IK.R
+    100158: PE.joelho.L.001
+    100160: PE.joelho.R.001
+    100162: pe.L
+    100164: pe.R
+    100166: perna.L
+    100168: perna.R
+    100170: Plane
+    100172: polegar.L
+    100174: polegar.L.001
+    100176: polegar.R
+    100178: polegar.R.001
+    100180: POLO.L
+    100182: POLO.PE.L
+    100184: POLO.PE.R
+    100186: POLO.R
+    100188: smile.L
+    100190: smile.R
+    100192: Sphere.002
+    100194: Sphere.003
+    100196: Sphere.008
+    100198: spine
+    100200: spine.001
+    100202: spine.002
+    400000: anel.L
+    400002: anel.L.001
+    400004: anel.L.002
+    400006: anel.R
+    400008: anel.R.001
+    400010: anel.R.002
+    400012: antebraco.L
+    400014: antebraco.L.001
+    400016: antebraco.R
+    400018: antebraco.R.001
+    400020: apontar.L
+    400022: apontar.L.001
+    400024: apontar.L.002
+    400026: apontar.R
+    400028: apontar.R.001
+    400030: apontar.R.002
+    400032: Armature
+    400034: boca de baixo
+    400036: boca de cima
+    400038: braco.L
+    400040: braco.L.001
+    400042: braco.R
+    400044: braco.R.001
+    400046: cabelo
+    400048: cabelo.001
+    400050: cabelo.002
+    400052: cabelo.003
+    400054: "cabe\xE7a"
+    400056: "cabe\xE7a.001"
+    400058: "cabe\xE7a.002"
+    400060: coxa.L
+    400062: coxa.R
+    400064: Cube
+    400066: EYE.L
+    400068: EYE.R
+    400070: head
+    400072: hips
+    400074: IK.L
+    400076: IK.pe.L.001
+    400078: IK.pe.R.001
+    400080: IK.perna.L.001
+    400082: IK.perna.R.001
+    400084: IK.R
+    400086: iris.baixo.L
+    400088: iris.baixo.R
+    400090: iris.cima.L
+    400092: iris.cima.R
+    400094: jaw
+    400096: joelho.L
+    400098: joelho.R
+    400100: MAO FECHADO.L
+    400102: MAO FECHADO.R
+    400104: mao.L
+    400106: mao.L.001
+    400108: mao.R
+    400110: mao.R.001
+    400112: MASTER.EYE
+    400114: MASTER.EYE.L
+    400116: MASTER.EYE.R
+    400118: meio.L
+    400120: meio.L.001
+    400122: meio.L.002
+    400124: meio.R
+    400126: meio.R.001
+    400128: meio.R.002
+    400130: midinho.L
+    400132: midinho.L.001
+    400134: midinho.L.002
+    400136: midinho.R
+    400138: midinho.R.001
+    400140: midinho.R.002
+    400142: //RootNode
+    400144: nec
+    400146: ombro.L
+    400148: ombro.R
+    400150: PE.coxa.L.001
+    400152: PE.coxa.R.001
+    400154: PE.IK.L
+    400156: PE.IK.R
+    400158: PE.joelho.L.001
+    400160: PE.joelho.R.001
+    400162: pe.L
+    400164: pe.R
+    400166: perna.L
+    400168: perna.R
+    400170: Plane
+    400172: polegar.L
+    400174: polegar.L.001
+    400176: polegar.R
+    400178: polegar.R.001
+    400180: POLO.L
+    400182: POLO.PE.L
+    400184: POLO.PE.R
+    400186: POLO.R
+    400188: smile.L
+    400190: smile.R
+    400192: Sphere.002
+    400194: Sphere.003
+    400196: Sphere.008
+    400198: spine
+    400200: spine.001
+    400202: spine.002
+    4300000: Cube
+    4300002: Plane
+    4300004: Sphere.002
+    4300006: Sphere.003
+    4300008: Sphere.008
+    4300010: "cabe\xE7a"
+    4300012: "cabe\xE7a.001"
+    4300014: "cabe\xE7a.002"
+    7400000: ArmatureAction
+    7400002: Armature|Action.001
+    7400004: Armature|CameraAction.001
+    7400006: Armature|dormindo
+    7400008: Armature|MAO FECHADO
+    9500000: //RootNode
+    13700000: "cabe\xE7a"
+    13700002: "cabe\xE7a.001"
+    13700004: "cabe\xE7a.002"
+    13700006: Cube
+    13700008: Plane
+    13700010: Sphere.002
+    13700012: Sphere.003
+    13700014: Sphere.008
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: 0
+      lastFrame: 97
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/coxa.L
+        weight: 1
+      - path: Armature/hips/coxa.L/joelho.L
+        weight: 1
+      - path: Armature/hips/coxa.L/joelho.L/perna.L
+        weight: 1
+      - path: Armature/hips/coxa.L/joelho.L/perna.L/pe.L
+        weight: 1
+      - path: Armature/hips/coxa.R
+        weight: 1
+      - path: Armature/hips/coxa.R/joelho.R
+        weight: 1
+      - path: Armature/hips/coxa.R/joelho.R/perna.R
+        weight: 1
+      - path: Armature/hips/coxa.R/joelho.R/perna.R/pe.R
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001/PE.joelho.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001/PE.joelho.R.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001
+        weight: 1
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/spine.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/boca de baixo
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/boca de cima
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo.003
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/EYE.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/EYE.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.baixo.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.baixo.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.cima.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.cima.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/jaw
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/MASTER.EYE
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/smile.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/smile.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R
+        weight: 1
+      - path: Armature/IK.L
+        weight: 1
+      - path: Armature/IK.R
+        weight: 1
+      - path: Armature/PE.IK.L
+        weight: 1
+      - path: Armature/PE.IK.R
+        weight: 1
+      - path: Armature/POLO.L
+        weight: 1
+      - path: Armature/POLO.PE.L
+        weight: 1
+      - path: Armature/POLO.PE.R
+        weight: 1
+      - path: Armature/POLO.R
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.001"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.002
+        weight: 1
+      - path: Sphere.003
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Action.001
+      takeName: Armature|Action.001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/coxa.L
+        weight: 1
+      - path: Armature/hips/coxa.L/joelho.L
+        weight: 1
+      - path: Armature/hips/coxa.L/joelho.L/perna.L
+        weight: 1
+      - path: Armature/hips/coxa.L/joelho.L/perna.L/pe.L
+        weight: 1
+      - path: Armature/hips/coxa.R
+        weight: 1
+      - path: Armature/hips/coxa.R/joelho.R
+        weight: 1
+      - path: Armature/hips/coxa.R/joelho.R/perna.R
+        weight: 1
+      - path: Armature/hips/coxa.R/joelho.R/perna.R/pe.R
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001/PE.joelho.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001/PE.joelho.R.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001
+        weight: 1
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/spine.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/boca de baixo
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/boca de cima
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo.003
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/EYE.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/EYE.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.baixo.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.baixo.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.cima.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.cima.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/jaw
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/MASTER.EYE
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/smile.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/smile.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R
+        weight: 1
+      - path: Armature/IK.L
+        weight: 1
+      - path: Armature/IK.R
+        weight: 1
+      - path: Armature/PE.IK.L
+        weight: 1
+      - path: Armature/PE.IK.R
+        weight: 1
+      - path: Armature/POLO.L
+        weight: 1
+      - path: Armature/POLO.PE.L
+        weight: 1
+      - path: Armature/POLO.PE.R
+        weight: 1
+      - path: Armature/POLO.R
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.001"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.002
+        weight: 1
+      - path: Sphere.003
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|CameraAction.001
+      takeName: Armature|CameraAction.001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/coxa.L
+        weight: 1
+      - path: Armature/hips/coxa.L/joelho.L
+        weight: 1
+      - path: Armature/hips/coxa.L/joelho.L/perna.L
+        weight: 1
+      - path: Armature/hips/coxa.L/joelho.L/perna.L/pe.L
+        weight: 1
+      - path: Armature/hips/coxa.R
+        weight: 1
+      - path: Armature/hips/coxa.R/joelho.R
+        weight: 1
+      - path: Armature/hips/coxa.R/joelho.R/perna.R
+        weight: 1
+      - path: Armature/hips/coxa.R/joelho.R/perna.R/pe.R
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001/PE.joelho.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001/PE.joelho.R.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001
+        weight: 1
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/spine.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/boca de baixo
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/boca de cima
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo.003
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/EYE.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/EYE.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.baixo.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.baixo.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.cima.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.cima.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/jaw
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/MASTER.EYE
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/smile.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/smile.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R
+        weight: 1
+      - path: Armature/IK.L
+        weight: 1
+      - path: Armature/IK.R
+        weight: 1
+      - path: Armature/PE.IK.L
+        weight: 1
+      - path: Armature/PE.IK.R
+        weight: 1
+      - path: Armature/POLO.L
+        weight: 1
+      - path: Armature/POLO.PE.L
+        weight: 1
+      - path: Armature/POLO.PE.R
+        weight: 1
+      - path: Armature/POLO.R
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.001"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.002
+        weight: 1
+      - path: Sphere.003
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|dormindo
+      takeName: Armature|dormindo
+      firstFrame: 0
+      lastFrame: 239
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/coxa.L
+        weight: 1
+      - path: Armature/hips/coxa.L/joelho.L
+        weight: 1
+      - path: Armature/hips/coxa.L/joelho.L/perna.L
+        weight: 1
+      - path: Armature/hips/coxa.L/joelho.L/perna.L/pe.L
+        weight: 1
+      - path: Armature/hips/coxa.R
+        weight: 1
+      - path: Armature/hips/coxa.R/joelho.R
+        weight: 1
+      - path: Armature/hips/coxa.R/joelho.R/perna.R
+        weight: 1
+      - path: Armature/hips/coxa.R/joelho.R/perna.R/pe.R
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001/PE.joelho.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001/PE.joelho.R.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001
+        weight: 1
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/spine.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/boca de baixo
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/boca de cima
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo.003
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/EYE.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/EYE.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.baixo.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.baixo.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.cima.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.cima.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/jaw
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/MASTER.EYE
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/smile.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/smile.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R
+        weight: 1
+      - path: Armature/IK.L
+        weight: 1
+      - path: Armature/IK.R
+        weight: 1
+      - path: Armature/PE.IK.L
+        weight: 1
+      - path: Armature/PE.IK.R
+        weight: 1
+      - path: Armature/POLO.L
+        weight: 1
+      - path: Armature/POLO.PE.L
+        weight: 1
+      - path: Armature/POLO.PE.R
+        weight: 1
+      - path: Armature/POLO.R
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.001"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.002
+        weight: 1
+      - path: Sphere.003
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|MAO FECHADO
+      takeName: Armature|MAO FECHADO
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hips
+        weight: 1
+      - path: Armature/hips/coxa.L
+        weight: 1
+      - path: Armature/hips/coxa.L/joelho.L
+        weight: 1
+      - path: Armature/hips/coxa.L/joelho.L/perna.L
+        weight: 1
+      - path: Armature/hips/coxa.L/joelho.L/perna.L/pe.L
+        weight: 1
+      - path: Armature/hips/coxa.R
+        weight: 1
+      - path: Armature/hips/coxa.R/joelho.R
+        weight: 1
+      - path: Armature/hips/coxa.R/joelho.R/perna.R
+        weight: 1
+      - path: Armature/hips/coxa.R/joelho.R/perna.R/pe.R
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001/PE.joelho.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.L.001/PE.joelho.L.001/IK.perna.L.001/IK.pe.L.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001/PE.joelho.R.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001
+        weight: 1
+      - path: Armature/hips/PE.coxa.R.001/PE.joelho.R.001/IK.perna.R.001/IK.pe.R.001
+        weight: 1
+      - path: Armature/hips/spine
+        weight: 1
+      - path: Armature/hips/spine/spine.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/boca de baixo
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/boca de cima
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/cabelo.003
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/EYE.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/EYE.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.baixo.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.baixo.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.cima.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/iris.cima.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/jaw
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/MASTER.EYE
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/MASTER.EYE/MASTER.EYE.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/smile.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/nec/head/smile.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/anel.L/anel.L.001/anel.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/apontar.L/apontar.L.001/apontar.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/meio.L/meio.L.001/meio.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/midinho.L/midinho.L.001/midinho.L.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L/antebraco.L/mao.L/polegar.L/polegar.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.L/braco.L.001/antebraco.L.001/mao.L.001/MAO
+          FECHADO.L
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/anel.R/anel.R.001/anel.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/apontar.R/apontar.R.001/apontar.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/meio.R/meio.R.001/meio.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/midinho.R/midinho.R.001/midinho.R.002
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R/antebraco.R/mao.R/polegar.R/polegar.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001
+        weight: 1
+      - path: Armature/hips/spine/spine.001/spine.002/ombro.R/braco.R.001/antebraco.R.001/mao.R.001/MAO
+          FECHADO.R
+        weight: 1
+      - path: Armature/IK.L
+        weight: 1
+      - path: Armature/IK.R
+        weight: 1
+      - path: Armature/PE.IK.L
+        weight: 1
+      - path: Armature/PE.IK.R
+        weight: 1
+      - path: Armature/POLO.L
+        weight: 1
+      - path: Armature/POLO.PE.L
+        weight: 1
+      - path: Armature/POLO.PE.R
+        weight: 1
+      - path: Armature/POLO.R
+        weight: 1
+      - path: "cabe\xE7a"
+        weight: 1
+      - path: "cabe\xE7a.001"
+        weight: 1
+      - path: "cabe\xE7a.002"
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Sphere.002
+        weight: 1
+      - path: Sphere.003
+        weight: 1
+      - path: Sphere.008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
